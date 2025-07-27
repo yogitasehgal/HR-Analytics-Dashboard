@@ -26,7 +26,9 @@ Raw data included employee demographic details, employment history, attrition re
 •	Trend analysis for monthly/quarterly attrition and recruitment.
 •	Heatmaps to highlight areas with high attrition or staffing needs.
 •	Custom visuals for presenting demographic breakdown (e.g., age, gender, tenure).
+
 📈 Business Impact
+
 The HR Workforce Analysis Dashboard has enhanced strategic HR decision-making by providing clear, concise insights into workforce dynamics. It empowers leadership to take timely actions on hiring, retention, and restructuring. This contributes to improved employee engagement, optimized workforce planning, and reduced turnover rates.
 
 ✅ Conclusion
