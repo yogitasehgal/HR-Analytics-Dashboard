@@ -24,5 +24,6 @@ Raw data included employee demographic details, employment history, attrition re
 •	Custom visuals for presenting demographic breakdown (e.g., age, gender, tenure).
 📈 Business Impact
 The HR Workforce Analysis Dashboard has enhanced strategic HR decision-making by providing clear, concise insights into workforce dynamics. It empowers leadership to take timely actions on hiring, retention, and restructuring. This contributes to improved employee engagement, optimized workforce planning, and reduced turnover rates.
+
 ✅ Conclusion
 This project demonstrates the powerful role of data visualization in HR analytics. By combining Power BI and Excel, the dashboard transforms complex workforce data into actionable insights, driving efficiency and transparency in HR operations.
